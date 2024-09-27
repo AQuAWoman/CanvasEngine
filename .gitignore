@@ -1,0 +1,8 @@
+canvasmath/
+build/
+canvas_math.egg-info/
+dist/
+.venv/
+.idea/
+setup.py
+
